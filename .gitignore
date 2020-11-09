@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/out/
+/Cinema Room Manager/task/out/production/classes/
+/Problems/A simple calculator/out/
+/Problems/A simple calculator/out/production/classes/
+/Problems/Inverse boolean flags/out/
+/Problems/Inverse boolean flags/out/production/classes/
+/Problems/Sum of numbers in the range/out/
+/Problems/Sum of numbers in the range/out/production/classes/
